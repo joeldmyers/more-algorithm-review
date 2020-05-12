@@ -24,9 +24,10 @@ Steps to solve a problem:
 ..e.	Write out this input and output.
 3.	Break it down
 ..a.	Before writing code: Write game plan out.  Write comments for everything I want to do.  All the steps.
-```// make empty object to return at end
-	// loop over string and add chars to object
-	// return object.```
+// make empty object to return at end
+// loop over string and add chars to object
+// return object.
+
 4.	Solve / Simplify 
 ..a.	Start Coding.  If you can’t, solve a simpler problem as a way to get to the bigger problem. 
 5.	Look Back and Refactor.
@@ -39,3 +40,5 @@ Steps to solve a problem:
 ..g	Aesthetics – i.e., using for of, instead of a for I = 0; I < s.length; i++;
 ..h.	Say things more compactly.
 ..i.	How have other people solved the problem?  
+
+#
