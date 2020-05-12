@@ -49,7 +49,7 @@ Steps to solve a problem:
 4.	Solve / Simplify 
   *	Start Coding.  If you can’t, solve a simpler problem as a way to get to the bigger problem. 
 5.	Look Back and Refactor.
-  *	Check result
+    *	Check result
   *	Can you derive result differently?
   *	Can you understand it at a glance? Are there parts that are confusing?
   *	Can you use result / method for some other problem?
