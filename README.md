@@ -39,22 +39,34 @@ Steps to solve a problem:
 
     *	Before writing code: Write game plan out.  Write comments for everything I want to do.  All the steps:
 
-`// make empty object to return at end`
+    `// make empty object to return at end`
 
-`// loop over string and add chars to object`
+    `// loop over string and add chars to object`
 
-`// return object.`
+    `// return object.`
 
 
 4.	Solve / Simplify 
+
     *	Start Coding.  If you can’t, solve a simpler problem as a way to get to the bigger problem. 
+
 5.	Look Back and Refactor.
+
     *	Check result
+
     *	Can you derive result differently?
+
     *	Can you understand it at a glance? Are there parts that are confusing?
+
     *	Can you use result / method for some other problem?
+
     *	Can you improve the performance of your solution?
+
     *	Can you think of other ways to refactor?
+
     *	Aesthetics – i.e., using for of, instead of a for I = 0; I < s.length; i++;
+
     *	Say things more compactly.
+
     *	How have other people solved the problem?  
+    
