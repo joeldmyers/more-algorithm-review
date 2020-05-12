@@ -11,7 +11,7 @@ Steps to solve a problem:
 
 1.	Understand the problem. 
 
-    *	Before writing code: Restate the problem in my own words.
+  *	Before writing code: Restate the problem in my own words.
 
     *	What are the inputs that go into the problem.
 
