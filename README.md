@@ -26,7 +26,9 @@ Steps to solve a problem:
 ..a.	Before writing code: Write game plan out.  Write comments for everything I want to do.  All the steps:
 
 `// make empty object to return at end`
+
 `// loop over string and add chars to object`
+
 `// return object.`
 
 
