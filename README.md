@@ -23,10 +23,14 @@ Steps to solve a problem:
 ..d.	Invalid inputs?
 ..e.	Write out this input and output.
 3.	Break it down
-..a.	Before writing code: Write game plan out.  Write comments for everything I want to do.  All the steps.
+..a.	Before writing code: Write game plan out.  Write comments for everything I want to do.  All the steps:
+
 // make empty object to return at end
+
 // loop over string and add chars to object
+
 // return object.
+
 
 4.	Solve / Simplify 
 ..a.	Start Coding.  If you can’t, solve a simpler problem as a way to get to the bigger problem. 
