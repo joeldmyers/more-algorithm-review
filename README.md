@@ -5,7 +5,7 @@ This goes over some big picture algorithm strategies, data structure implementat
 
 Note, this goes through this course, which is pretty good for reviewing core DSA fundamentals - https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
 
-## General Notes on Problem-Solving Strageties
+## General Notes on Problem-Solving Strategies
 
 Steps to solve a problem:
 
@@ -69,4 +69,6 @@ Steps to solve a problem:
     *	Say things more compactly.
 
     *	How have other people solved the problem?  
-    
+
+
+### Common Problem Solving Patterns
