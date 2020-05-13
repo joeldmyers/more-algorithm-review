@@ -1,5 +1,5 @@
 const same = (arr1, arr2) => {
-  // INPUT: Two arrays of numbers. One is first one, second is squares.
+  if (arr1.length !== arr2.length) return false;
 
   let frequencyCounter = {};
   arr1.forEach((num) => {
