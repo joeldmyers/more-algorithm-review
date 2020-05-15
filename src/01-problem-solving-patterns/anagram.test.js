@@ -1,7 +1,7 @@
 const { isAnagram } = require("./anagram");
 
-describe("test description", () => {
-  test("describe individual test", () => {
+describe("Tests the Is Anagram Function", () => {
+  test("Checks if two strings are anagrams of each other", () => {
     expect(isAnagram("", "")).toBe(true);
     expect(isAnagram("aaz", "zza")).toBe(false);
     expect(isAnagram("anagram", "nagaram")).toBe(true);
